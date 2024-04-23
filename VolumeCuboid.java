@@ -6,7 +6,7 @@ public class VolumeCuboid {
     public double panjang;
     public double lebar;
     public double tinggi;
-    public VolumeCuboidCuboid(double panjang, double lebar, double tinggi){
+    public VolumeCuboid(double panjang, double lebar, double tinggi){
         this.panjang = panjang;
         this.lebar = lebar;
         this.tinggi = tinggi;
